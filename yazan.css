@@ -1,0 +1,66 @@
+html{
+    background-color: blueviolet;
+}
+.div {
+    width: 320px;
+    height: 110px;
+    border: 2px solid black;
+    position: fixed;
+    margin-left: 720px ;
+    
+}
+
+
+.div1{
+
+    border: 2px solid black;
+    width: 350px;
+    height: 250px;
+    text-align: center;
+    margin-top: 200px;
+    position: fixed;
+    margin-left: 450px;
+    display: inline-block;
+   
+    
+   
+}
+.div2{
+
+    border: 2px solid black;
+    width: 350px;
+    height: 250px;
+    text-align: center;
+    margin-top: 200px;
+    position: fixed;
+    margin-left: 950px;
+   
+    
+   
+}
+.div3{
+    border: 2px solid black;
+    width: 350px;
+    height: 250px;
+    text-align: center;
+    margin-top: 500px;
+    position: fixed;
+    margin-left:700px;
+    
+    
+    
+}
+video{
+    margin-top: 750px;
+    position: fixed;
+    margin-left: 550px;
+}
+a{
+    margin-top: 1050;
+}
+footer{
+    color: white;
+    background-color: aquamarine;
+    padding: 20px;
+    text-align: center;
+}
